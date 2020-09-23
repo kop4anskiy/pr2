@@ -12,8 +12,8 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/4.png)
 
-**SRC-Port=59162
-dst-port=53**
+**SRC-Port=59162**
+**dst-port=53**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/5.png)
 
@@ -21,7 +21,7 @@ dst-port=53**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/7.png)
 
-**ICMP-протокол
+**ICMP-протокол**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/8.png)
 
@@ -38,7 +38,6 @@ target ip 192.168.0.17**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/10.png)
 
-**HTTP протокол**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/11.png)
 
