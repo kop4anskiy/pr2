@@ -41,9 +41,28 @@ target ip 192.168.0.17**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/11.png)
 
+**IP-SRC**-*пакет, содержащий в себе IP-адрес рабочей станции, от которой он поступил*
 
+![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/ip_src.jpg)
 
+**IP-DST**-*пакет, содержащий в себе IP-адрес рабочей станции, которой он адресован.*
 
+![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/ip_dst.jpg)
 
+**ip.addr**-*Фильтрует трафик по определенному IP-адресу*
 
+![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/ip.addr.jpg)
 
+**udp.srcport**-*UDP порт отправителя*
+
+![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/udp.src.jpg)
+
+**arp.src.hw_mac** - *Протокол ARP – MAC адрес отправителя*
+
+**eth.src**-*MAC-адрес отправителя*
+
+![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/eth.src.jpg)
+
+**eth.dst**-*MAC-адрес получателя*
+
+![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/eth.dst.jpg)
