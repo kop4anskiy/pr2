@@ -1,19 +1,19 @@
-**Мой IP-адрес:192.168.0.20
+**Мой IP-адрес:192.168.0.20**
 
 ![Мой IP-адрес:192.168.0.20](https://raw.githubusercontent.com/kop4anskiy/pr2/master/1.png)
 
-**В заголовке содержится 20 байт, общая длина 60 байт
+**В заголовке содержится 20 байт, общая длина 60 байт**
 
-**TTL=108
+**TTL=108**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/2.png)
 
-**Запускаем cmd 
+**Запускаем cmd**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/4.png)
 
 **SRC-Port=59162
-dst-port=53
+dst-port=53**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/5.png)
 
@@ -25,7 +25,7 @@ dst-port=53
 
 ![](https://raw.githubusercontent.com/kop4anskiy/pr2/master/8.png)
 
-**Frame=211;74 bytes(592 bytes)
+**Frame=211;74 bytes(592 bytes)**
 
 **IPV4;Src: 192.168.0.24, Dst: 8.8.8.8**
 
